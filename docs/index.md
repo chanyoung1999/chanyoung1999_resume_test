@@ -1,85 +1,70 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: ChanYoung Choi's Resume
 ---
-# Young Choi
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# ChanYoung Choi
+A student of BYU-I.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="chanyoung@byui.edu">chanyoung@byui.edu</a>
+| <a href="https://www.linkedin.com/in/chan-choi-b1190597/">LinkedIn</a>
+| <a href="https://github.com/chanyoung1999">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2017-2022`
+__BYU-Idaho__, Rexberg, ID
 
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
+- Major 3.2 GPA
+- Major: Computer Science
 
 
-## Related Experience
 
-### Internships
+### Voluntary work
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`July 27 2018- January 28 2020`
+__Mission in Canada__, Toronto, Ont
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Served as a missionary in Toronto and other areas of Ontario
+- Finished a confirmation for the baptized person
+- Managed to invite a few people who became members
 
 
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+### Skills
 
+- Programming
+- Mathmatics
+- Communications
+- Drawing
+
+### Study Experience
+
+`October 15 2022- September 1 2022`
+__Lead of the Final Project of Web Fundamentals__, 
+
+- Created a website introducing the restoration of historical relics
+- Allowed the website to have child pages with brief explanation of the restoration projects
+- Presented the site in front of the class
+
+
+`October 20 2022- October 28 2022`
+__One of the team members of a powerpoint presentation__, 
+
+- Created a powerpoint with the team which explained the tactics used in a teamwork
+- Made a Kahoot quiz for the class based on the requirements of a working environment
+- Presented the powerpoint in front of the class demonstrating the amount of progress we had made in the class
+
+`October 11- October 14 2022`
+__Made a presentation about social engineering__, 
+
+- Made a powerpoint explaining what social engineering is and how cybersecurity is crucial for it
+- Made multiple slides demonstrating the required procedures that could help online users from preventing their private data from being leaked
+- Provided the Hack The Box results to the class
 
 
 <!-- ### Footer
